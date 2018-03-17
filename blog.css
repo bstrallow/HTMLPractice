@@ -1,11 +1,13 @@
 header {
-
+    height: 75px;
+    
 }
 .head-left {
+    float: left;
 
 }
 .head-right {
-
+    float: right;
 }
 main {
 
@@ -19,9 +21,12 @@ main {
 .main-content {
 
 }
+.maincontent>p {
+
+}
 footer {
 
 }
 .foot-links {
-    
+
 }

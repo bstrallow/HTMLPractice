@@ -1,32 +1,63 @@
+body {
+    background-color: #F4F4F4;
+}
 header {
-    height: 75px;
+    height: 80px;
     
 }
 .head-left {
     float: left;
-
+    height: 80px;
+    width: 400px;
+    text-align: center;
 }
 .head-right {
     float: right;
+    height: 80px;
+    width: 370px;
+    text-align: center;
+}
+.head-right p {
+    margin-top: 32px;
+    
+}
+p a {
+    margin-left: 10px;
 }
 main {
 
 }
 .main-title {
-
+    text-align: center;
 }
 .main-subscribe {
-
+    text-align: center;
+}
+.main-subscribe p {
+    font-size: small;
+    margin-bottom: 2px;
+    color: #cecece;
+}
+.main-subscribe button {
+    height: 30px;
+    width: 125px;
+    background-color: #4B98C4;
 }
 .main-content {
-
+    text-align: center;
 }
 .maincontent>p {
 
 }
 footer {
-
+    
 }
 .foot-links {
 
+}
+.foot-copyright {
+    text-align: center;
+}
+a {
+    text-decoration: none;
 }
